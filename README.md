@@ -28,7 +28,7 @@ I bridge ground-level inbound and outbound logistics operations with data analyt
 
 ### 🚀 Featured Projects
 
-1. **[3PL Handover & Returns Analytics Dashboard](https://github.com/aaqibhussaindar)** *(Looker Studio, Google Sheets, Advanced Excel)*
+1. **[3PL Handover & Returns Analytics Dashboard]([https://github.com/aaqibhussaindar/3pl-handover-returns-analytics-dashboard](https://github.com/aaqibhussaindar/3pl-handover-returns-analytics-dashboard))** *(Looker Studio, Google Sheets, Advanced Excel)*
    - Built an interactive operational dashboard tracking **19,217 in-scanned shipments** and **19,030 3PL handovers** across **10 regional districts** (led by Warangal at 22.6%, Nizamabad at 14.0%, and Karimnagar at 11.7%).
    - Monitored **688 total returns** (501 3PL returns, 187 branch returns) and **6 branch holds**, categorizing root-cause exceptions (*Insufficient Address*, *Invalid Receiver Phone*, *API Errors*) with consignment-level search filters.
 
