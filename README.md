@@ -41,6 +41,6 @@ I bridge ground-level inbound and outbound logistics operations with data analyt
 ---
 
 ### 📫 Connect With Me
-- 🌐 **Portfolio:** [Gamma Portfolio](https://gamma.app/docs/Aaqib-Hussain-Dar-wg184dj3635pyky?mode=doc)
+- 🌐 **Portfolio:** [Gamma Portfolio](https://aaqib-hussain-slz4a0a.gamma.site/)
 - 💼 **LinkedIn:** [linkedin.com/in/aaqibhussaindar](https://www.linkedin.com/in/aaqibhussaindar)
 - 📧 **Email:** dar.aaqib2019@gmail.com
