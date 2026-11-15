@@ -32,10 +32,10 @@ I bridge ground-level inbound and outbound logistics operations with data analyt
    - Built an interactive operational dashboard tracking **19,217 in-scanned shipments** and **19,030 3PL handovers** across **10 regional districts** (led by Warangal at 22.6%, Nizamabad at 14.0%, and Karimnagar at 11.7%).
    - Monitored **688 total returns** (501 3PL returns, 187 branch returns) and **6 branch holds**, categorizing root-cause exceptions (*Insufficient Address*, *Invalid Receiver Phone*, *API Errors*) with consignment-level search filters.
 
-2. **[Demand & Sales Forecasting Analytics System](https://github.com/aaqibhussaindar)** *(Python, Scikit-Learn, Streamlit, Power BI)*
+2. **[Demand & Sales Forecasting Analytics System](https://github.com/aaqibhussaindar/AI-Driven-Retail-Demand-Forecasting-and-Analytics-Using-Temporal-Feature-Engineering))** *(Python, Scikit-Learn, Streamlit, Power BI)*
    - End-to-end machine learning forecasting pipeline across **11,000+ records**, achieving **94.8% forecasting accuracy (5.2% MAPE)** paired with an interactive Streamlit app and Power BI dashboard.
 
-3. **[HR & Recruitment Analytics Dashboard](https://github.com/aaqibhussaindar)** *(Power BI, SQL)*
+3. **[HR & Recruitment Analytics Dashboard](https://github.com/aaqibhussaindar/SQL-HR-Analytics-PowerBI)** *(Power BI, SQL)*
    - Queried and analyzed **1,000+ applicant records** using SQL and built interactive Power BI visuals tracking hiring funnels, salary insights, and department allocation.
 
 ---
